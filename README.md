@@ -12,4 +12,4 @@ Postgres is used as database.
 ![Screenshot from 2019-05-05 15-26-48](https://user-images.githubusercontent.com/25443317/57199192-3e992e00-6f4a-11e9-87aa-5199f5694177.png)
 
 *This project can be easily imported into the Intellij IDE but the dependency management tool is not used so the user will have to provide 
-dependencies for Hibernate, JSTL tag, Postgres JDBC drive.*
+dependencies for Hibernate, JSTL tag, Postgres JDBC driver.*
