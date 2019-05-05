@@ -1,0 +1,17 @@
+obj/
+Debug/
+*.o
+*.out/
+*.class
+build/
+tmp/
+target/
+lib/
+out/
+
+#Pacjage Files #
+*.jar
+*.war
+
+#Intellij
+.idea/
