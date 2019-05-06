@@ -1,7 +1,7 @@
 # PhoneBook-Web-Application
 This is a simple Phone Book Web application that allows the users to add contact, view contact, edit contact and delete contact.
-This project is developed by following the MVC pattern and mainly using the Servlet and JSP. Hibernate is used as the ORM tool and 
-Postgres is used as database.
+This project is developed by following the MVC pattern and mainly using the Servlet and JSP. Hibernate is used as an ORM tool and 
+Postgres is used as the database.
 
 **Login Page**
 
